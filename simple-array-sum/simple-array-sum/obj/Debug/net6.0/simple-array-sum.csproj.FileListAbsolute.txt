@@ -1,0 +1,15 @@
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/bin/Debug/net6.0/simple-array-sum
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/bin/Debug/net6.0/simple-array-sum.deps.json
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/bin/Debug/net6.0/simple-array-sum.runtimeconfig.json
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/bin/Debug/net6.0/simple-array-sum.dll
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/bin/Debug/net6.0/simple-array-sum.pdb
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/simple-array-sum.csproj.AssemblyReference.cache
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/simple-array-sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/simple-array-sum.AssemblyInfoInputs.cache
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/simple-array-sum.AssemblyInfo.cs
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/simple-array-sum.csproj.CoreCompileInputs.cache
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/simple-array-sum.dll
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/refint/simple-array-sum.dll
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/simple-array-sum.pdb
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/simple-array-sum.genruntimeconfig.cache
+/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/obj/Debug/net6.0/ref/simple-array-sum.dll

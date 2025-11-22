@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yf/kEVdzigOYvrsPr3244V3VJfKP9H7yFz+JodjcIiP4ALEb663MYo0ODwraPX46ix4kPGoj154Ia34BNJeT6A==",
+  "success": true,
+  "projectFilePath": "/Users/matheusprado/Projects/simple-array-sum/simple-array-sum/simple-array-sum.csproj",
+  "expectedPackageFiles": [
+    "/Users/matheusprado/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/matheusprado/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/matheusprado/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
