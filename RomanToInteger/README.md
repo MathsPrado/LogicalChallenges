@@ -44,22 +44,5 @@ Given a Roman numeral string, the goal is to convert it to an integer.
 * `s` contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
 * It is **guaranteed** that `s` is a valid Roman numeral in the range `[1, 3999]`.
 
----
 
-## 💡 Solution Approach
-
-The solution involves traversing the Roman numeral string (e.g., from **right to left** or **left to right**) and calculating the running total, with special handling for the six subtractive cases.
-
-### Right-to-Left Strategy
-
-1.  Create a map (or dictionary) to store the integer value of each Roman symbol.
-2.  Initialize the total sum with the value of the **last** symbol in the string.
-3.  Iterate through the rest of the string from **right to left** (or from the second-to-last character backward).
-4.  For each current symbol:
-    * If the current symbol's value is **less than** the value of the symbol immediately to its right (the symbol already processed), it signifies a subtractive pair (e.g., `I` before `V` in `IV`). **Subtract** the current symbol's value from the total sum.
-    * Otherwise, **add** the current symbol's value to the total sum.
-
-This approach ensures that subtractive pairs are correctly interpreted in a single pass.
-
----
 
