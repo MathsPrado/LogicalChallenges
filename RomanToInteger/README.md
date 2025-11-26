@@ -63,6 +63,3 @@ This approach ensures that subtractive pairs are correctly interpreted in a sing
 
 ---
 
-## 🛠️ Installation and Usage
-
-*(This section should be tailored based on your programming language and project structure.)*
