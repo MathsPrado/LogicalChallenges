@@ -44,32 +44,6 @@ An input string is valid if:
 
 ---
 
-## 💡 Hints
-
-- Use a **stack** to keep track of opening brackets.
-- For every closing bracket, verify it matches the most recent unmatched opening bracket.
-- At the end, all brackets should be matched (stack must be empty).
-
----
-
-## 🧠 Approach
-
-The key idea is to process each character sequentially:
-1. When encountering an **opening bracket** (`(`, `{`, `[`), push it onto the stack.
-2. When encountering a **closing bracket** (`)`, `}`, `]`):
-   - Check if the stack is not empty and the top element is the corresponding opening bracket.
-   - If yes, pop from the stack.
-   - Otherwise, return `false`.
-3. After processing all characters, return `true` only if the stack is empty.
-
-This ensures correct pairing, type matching, and nesting order.
-
----
-
-## ⏱️ Time Complexity: `O(n)`  
-## 🧠 Space Complexity: `O(n)` *(stack storage in worst case)*
-
----
 
 ## 🏷️ Topics
 
