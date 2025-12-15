@@ -45,7 +45,4 @@ An input string is valid if:
 ---
 
 
-## 🏷️ Topics
-
-`#Stack` `#String` `#DataStructures` `#Algorithms`
 
