@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHxNdoY4fkX841Asrl6t2/ujIev30RNZOsvz8ZBKaoGbPjZ9OH/1QT4bSnvP5L4qwoM8NuNjU2IEJ2FkeEq62A==",
+  "success": true,
+  "projectFilePath": "/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/GoodPatis.csproj",
+  "expectedPackageFiles": [
+    "/Users/matheusprado/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/matheusprado/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/matheusprado/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

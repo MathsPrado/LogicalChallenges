@@ -1,0 +1,15 @@
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/bin/Debug/net6.0/GoodPatis
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/bin/Debug/net6.0/GoodPatis.deps.json
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/bin/Debug/net6.0/GoodPatis.runtimeconfig.json
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/bin/Debug/net6.0/GoodPatis.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/bin/Debug/net6.0/GoodPatis.pdb
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/GoodPatis.csproj.AssemblyReference.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/GoodPatis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/GoodPatis.AssemblyInfoInputs.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/GoodPatis.AssemblyInfo.cs
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/GoodPatis.csproj.CoreCompileInputs.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/GoodPatis.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/refint/GoodPatis.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/GoodPatis.pdb
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/GoodPatis.genruntimeconfig.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/Debug/net6.0/ref/GoodPatis.dll
