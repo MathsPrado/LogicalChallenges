@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/GoodPatis.csproj",
-      "projectName": "GoodPatis",
-      "projectPath": "/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/GoodPatis.csproj",
+      "projectUniqueName": "/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/GoodPairs.csproj",
+      "projectName": "GoodPairs",
+      "projectPath": "/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/GoodPairs.csproj",
       "packagesPath": "/Users/matheusprado/.nuget/packages/",
       "outputPath": "/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/GoodPatis/GoodPatis/obj/",
       "projectStyle": "PackageReference",
