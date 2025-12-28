@@ -1,0 +1,42 @@
+# 3760. Maximum Substrings With Distinct Start
+
+**Difficulty:** Medium  
+**Topics:** String, Greedy, Hash Set  
+**Platform:** LeetCode
+
+---
+
+## 📝 Problem Description
+
+You are given a string `s` consisting of lowercase English letters.
+
+Return an integer denoting the **maximum** number of **substrings** you can split `s` into such that each substring starts with a **distinct** character (i.e., no two substrings start with the same character).
+
+---
+
+## 🚀 Examples
+
+### Example 1:
+**Input:** `s = "abab"`  
+**Output:** `2`  
+**Explanation:** Split `"abab"` into `"a"` and `"bab"`. Each substring starts with a distinct character ('a' and 'b').
+
+### Example 2:
+**Input:** `s = "abcd"`  
+**Output:** `4`  
+**Explanation:** Split `"abcd"` into `"a"`, `"b"`, `"c"`, and `"d"`.
+
+### Example 3:
+**Input:** `s = "aaaa"`  
+**Output:** `1`  
+**Explanation:** Only one substring can start with 'a'.
+
+---
+
+## ⚙️ Constraints
+
+* `1 <= s.length <= 10^5`
+* `s` consists of lowercase English letters.
+
+
+---
