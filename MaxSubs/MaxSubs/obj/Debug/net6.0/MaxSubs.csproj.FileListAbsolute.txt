@@ -1,0 +1,15 @@
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/bin/Debug/net6.0/MaxSubs
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/bin/Debug/net6.0/MaxSubs.deps.json
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/bin/Debug/net6.0/MaxSubs.runtimeconfig.json
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/bin/Debug/net6.0/MaxSubs.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/bin/Debug/net6.0/MaxSubs.pdb
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/MaxSubs.csproj.AssemblyReference.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/MaxSubs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/MaxSubs.AssemblyInfoInputs.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/MaxSubs.AssemblyInfo.cs
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/MaxSubs.csproj.CoreCompileInputs.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/MaxSubs.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/refint/MaxSubs.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/MaxSubs.pdb
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/MaxSubs.genruntimeconfig.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxSubs/MaxSubs/obj/Debug/net6.0/ref/MaxSubs.dll
