@@ -1,0 +1,15 @@
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/bin/Debug/net7.0/MaxProfit
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/bin/Debug/net7.0/MaxProfit.deps.json
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/bin/Debug/net7.0/MaxProfit.runtimeconfig.json
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/bin/Debug/net7.0/MaxProfit.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/bin/Debug/net7.0/MaxProfit.pdb
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/MaxProfit.csproj.AssemblyReference.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/MaxProfit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/MaxProfit.AssemblyInfoInputs.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/MaxProfit.AssemblyInfo.cs
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/MaxProfit.csproj.CoreCompileInputs.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/MaxProfit.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/refint/MaxProfit.dll
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/MaxProfit.pdb
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/MaxProfit.genruntimeconfig.cache
+/Users/matheusprado/Desktop/matheus Git/LogicalChallenges/MaxProfit/MaxProfit/obj/Debug/net7.0/ref/MaxProfit.dll
