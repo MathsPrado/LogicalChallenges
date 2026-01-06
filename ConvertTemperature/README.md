@@ -1,7 +1,6 @@
 # 2469. Convert the Temperature Leetcode
 
 ## 🏆 Difficulty: Easy
-## 🏷️ Topics: Math, Array
 
 ## 📝 Problem Description
 
